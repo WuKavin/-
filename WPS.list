@@ -1,0 +1,17 @@
+#!name=WPS
+#!desc=WPS 相关服务规则
+[Rule]
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,docer.wps.cn
+DOMAIN-SUFFIX,kingsoft-office-service.com
+DOMAIN-SUFFIX,kingsoft-office.com
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscloudstorage.com
+DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,kingsoft.com
+DOMAIN-SUFFIX,officeapi.wps.cn
+DOMAIN-SUFFIX,account.wps.cn
+DOMAIN-SUFFIX,drive.wps.cn
+DOMAIN-SUFFIX,service.wps.cn
+DOMAIN-SUFFIX,passport.wps.cn
+DOMAIN-SUFFIX,clientweb.docer.wps.cn
