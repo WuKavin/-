@@ -1,0 +1,8 @@
+#!name=Notion
+#!desc=Notion 相关服务规则
+[Rule]
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,external.notion.site
+DOMAIN-KEYWORD,notion
